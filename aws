@@ -1,0 +1,8 @@
+GIT LOG: This command is used to commits in git 
+git log : used to get all commits
+git log --oneline : used to get only commit ids & messages
+git log --pretty=oneline = used to get only full commit ids & messages
+git log -2 : used to get latest 2 commits 
+git log --follow --all filename : used to get all commits for a file
+GIT SHOW : It is used to see the changes for a particular commit 
+
